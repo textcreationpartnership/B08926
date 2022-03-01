@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>,The detection of a popish cheat, or, A true account of the invention and discovery of the story of a boys conversing with the devil, which has lately occasioned so much noise and so many reports.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08926</idno>
+            <idno type="STC">Wing D1209</idno>
+            <idno type="STC">ESTC R171758</idno>
+            <idno type="EEBO-CITATION">64551169</idno>
+            <idno type="OCLC">ocm 64551169</idno>
+            <idno type="VID">184521</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08926)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184521)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2866:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>,The detection of a popish cheat, or, A true account of the invention and discovery of the story of a boys conversing with the devil, which has lately occasioned so much noise and so many reports.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Printed in Dublin and reprinted at London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: broadside has faded print.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Day, James.</term>
+               <term>Demoniac possession --  England --  Early works to 1800.</term>
+               <term>Devil --  Early works to 1800.</term>
+               <term>Catholic Church --  Controversial literature --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:184521:1" rendition="simple:additions"/>
+            <head>THE DETECTION OF A POPISH CHEAT, OR A True Account of the Invention and Diſcovery of the Story of a Boys converſing with the DEVIL, which has lately occaſioned ſo much Noiſe and ſo many Reports.</head>
+            <p>A Boy Named <hi>James Day,</hi> Aged about eighteen years, formerly bred in the <hi>Blew Boy-Hoſpital,</hi> and now an Apprentice to <hi>Roger Day,</hi> Smith, on <hi>Lazy-Hill</hi> in <hi>St. Andrew's</hi> Pariſh, <hi>Dublin,</hi> ſeemed to be troubled in Mind, and gave out, that he was in League with the Devil, which was the more eaſily believ'd, by reaſon of an unuſual Sullenneſs of Temper, and diſtraction of Look that appear'd in him. Mr. <hi>Travers</hi> Miniſter of the Pariſh hearing of ſuch a one Pray'd for in his Church, en<g ref="char:EOLhyphen"/>quir'd after him, and made him a viſit on <hi>Monday</hi> the 17th. of <hi>June</hi> laſt; he found him as he had heard, and diſcourcing him, had from him the following Story; which is related as near as is poſſible, in the Boy's own Words.</p>
+            <p>
+               <hi>Viz.</hi> that ſome time ſince, he had made Complaint to a Journey-man Smith, who wrought under his Maſter, that he wanted five or ſix Shillings to ſpend among ſome Friends in the Country, whom he was minded to viſit; and that the ſaid Man anſwered him, <hi>That if he ſhook hands with the Old Gentle<g ref="char:EOLhyphen"/>man, he ſhould never want Money;</hi> whereupon he asked him how he ſhould be get an acquaintance with him; and that the man told him, <hi>The way was to go into a private Place, and write ſome Prayer to him in his own Blood;</hi> and that accordingly he went on <hi>Saturday</hi> the 8th. day of <hi>June,</hi> into a Field near <hi>St. Patricks Well,</hi> and writ in his own Blood theſe Words; <hi>In the Name of the Devil, I command you to appear;</hi> and that immediately there came to him a Tall Slender Black Man, of a thin Viſage, and a thick Speech, and that they converſed together for ſome time, and that the ſaid black man made him great offers of Money, and Wordly Goods, if he would become his Servant; particularly, That he ſhould win at all ſorts of Game; and that after they parted, he went immediately by ſome ſecret Direction, to the Lottery on <hi>Eſſex-Bridge,</hi> where he won that evening Eleven Shillings and Four Pence: That on <hi>Saturday</hi> the 15th day of <hi>June,</hi> he went in the morning to <hi>St. Patricks Well</hi> for a Pitcher of Water, and in his return homewards, there met him of a ſudden, a man in colour'd Cloths, who told him, That there was a Gentleman in the fields near the Gallows deſir'd to ſpeak with him, and bid him bring with him a Knife, a peice of Paper and a Pen; and that according<g ref="char:EOLhyphen"/>ly h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> did go to thoſe fields, and there met the Devil, and that after a good while Conference with him, he agreed to Sell himſelf to him for ever, in conſideration of ſeventeen years Life and Hap<g ref="char:EOLhyphen"/>pineſs, and that purſuant to this Agreement, the Boy was writing a Leaſe, or Deed, of Sale in his own Blood, having cut his Finger for that purpoſe; but when he had written part of it, the De<g ref="char:EOLhyphen"/>vil bid him tare it, for that he himſelf could do it better and faſter; and accordingly the Devil did draw up a Leaſe, and read it to the Boy, wherein he was aſſured of Gold and Silver in great plenty, but ſome of the Words he could not underſtand; and that the Devil would have had him ſign the ſaid Leaſe at that time, which he was unwilling to do, without ſome further time to con<g ref="char:EOLhyphen"/>ſider it, but appointed to meet him again the <hi>Saturday</hi> following for the perfecting of it; and that the Devil carry'd him that afternoon to a Houſe that lookt like a Tavern, he knows not where, but that they had there Sack and March Beer ſugar'd, with other Liquours; and that all the while they were drinking, they ſat one on each ſide of a Table hand in hand, the Devil preſſing him all the time to ſign the ſaid Leaſe; and that they had no Drawer, or Attendant to ſupply them with Drink, but that notwithſtanding, they drank plentifully, the Cups were always full; and that there were in the ſaid Tavern a great many people of all ſorts, little and big: When they were parted thence, the Boy came home Frighted and Diſorder'd as 'twas thought, and he told theſe things to his Maſter and others of the Neighbourhood, telling them withal, That all their Advice, and that all they could do for him would be in vain. For that he muſt neceſſarily go to the Devil the <hi>Saturday</hi> following, according to the appointment that was made.</p>
+            <p>There were ſome Circumſtances that render'd the foregoing Story ſomewhat probable, for the Journy-Man Smith confeſs'd, That he had ſaid ſomething to the Boy of <hi>Shaking hands with the Old Gentleman,</hi> tho in Jeſt. There was a viſible Gaſh or two in one of his Fingers: There appeared in him ſome ſymp<g ref="char:EOLhyphen"/>toms of a diſturb'd mind; and ſeveral Perſons of Credit went with him on <hi>Sunday</hi> the 16th. to the field near the Gallows, where he ſaid he had been in Conference with the Devil the day before, and there they ſound the torn Paper written in blood as he had ſaid, and putting the Scraps to<g ref="char:EOLhyphen"/>gether, they could read the date of the Month, and Year, and the words <hi>Promiſe</hi> and <hi>Law,</hi> and ſome other words, upon theſe Accounts, ſome Cridit was given to this Relation for three or four days.</p>
+            <pb facs="tcp:184521:2"/>
+            <p> On <hi>Wedneſday</hi> the 19th. of <hi>June,</hi> This Boy's Uncle <hi>Patrick Dawſon</hi> a Papiſt, who lives in <hi>York-ſtreet,</hi> ſent a Coach for him, and had him brought to his Houſe, where he ſtaid ſome time; however here<g ref="char:EOLhyphen"/>turned home to his Maſters in the evening, and told his Maſter, that he was reſolved to ſerve him no leng<g ref="char:EOLhyphen"/>ger, but to bind himſelf to his Uncle <hi>James Tuit,</hi> (a Papiſt) Wooſted Comber in <hi>Thomas Court,</hi> and that he would turn Papiſt, for that he was ſure, no one but a Prieſt could do him any good in that condition, and that Mr. <hi>Travers</hi> need not trouble himſelf any more with him, but would tell them nothing of what occaſion'd this now ſudden change in him: As ſoon as Mr. <hi>Travers</hi> was informed of this by the Boys Maſter the next morning, he went to him, and with much ado, prevail'd upon him to to diſcover what had happen'd to him the evening before at his Uncle <hi>Dawſons,</hi> and 'twas as follows.</p>
+            <p>When he firſt went into the Houſe, he heard his Aunt <hi>Dawſon</hi> bid a little Girl run with all ſpeed and fetch (as he underſtood) Father <hi>Barnwell,</hi> and that ſoon after a Perſon came in, in the appearance and dreſs of an Old Woman, with a Frix<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Mantle like a Fryars Habit, who told him, That ſhe had been Dead, and was Riſen from the Dead, and that while ſhe was Dead, ſhe was in Heaven, where ſhe ſaw and convers'd with God, and Chriſt, the Angels, the Virgin Mary and Saints, and that they all told her, there was no Salvation any where but in the Church of <hi>Rome,</hi> and that ſhe ſaw King <hi>Charles</hi> II. in Heaven, and that the reaſon of his being there was his dying a Papiſt; that there was great Virtue in Holy Water, and ſhew'd him a <hi>Cruiciſix,</hi> and ordered him to hang one about his neck as a conſtant Charm; with theſe and ſuch like perſwaſions ſhe tempted the Boy to change his Religion and turn to Maſs, but the Boy made anſwer, that he could not be benefited by the Maſs Service, it being in Latin, which he did not underſtand; but ſhe told him the Maſs was Celebrated in as good Engliſh as was uſed, either in Church or Meeting: Upon this, Mr. <hi>Travers</hi> went immediately to <hi>Patrick Dawſon</hi>'s Houſe, and they confeſs'd that ſuch a Wo<g ref="char:EOLhyphen"/>man had been there that evening in the Boy's company, and that ſhe lived in the end of the Town, but when he was earneſt to have her produced, they deny'd they knew where to find her, that ſhe was only a begger Woman that came in by accident, tho they own'd then they had ſeen her there ſeveral times before, and knew her by ſight very well.</p>
+            <p>This Paſſage made it reaſonable to believe, that the Story had been deſignedly forg'd: And accordingly due care and diligence were apply'd for the ſifting and finding out of the matter; which was done with good ſucceſs, for on <hi>Fridry</hi> the 21ſt. day of <hi>June,</hi> the Boy diſcloſed the whole Plot, and gave his Con<g ref="char:EOLhyphen"/>feſſion; Firſt, to Mr. <hi>Traver</hi> in writing, and afterwards upon Oath, to Sir <hi>Humphery, Jerviſe.</hi>
+            </p>
+            <p>The ſubſtance of his Confeſſion was as follows; That his Uncle <hi>James Tuit,</hi> and <hi>Patrick Dawſon,</hi> with their Wives, being all Papiſts, had frequently Advis'd and Preſs'd this Boy their Nephew, to come over to their Religion; and that on the 8th day of <hi>June,</hi> the ſaid <hi>James Tuit</hi> did firſt put the fore<g ref="char:EOLhyphen"/>going Story in the Boys Head; and that afterwards the ſame day, his Aunt <hi>Joan Tuit</hi> did carry him to the Popiſh Chappel at <hi>St. Audoen</hi>'s Arch, where the doors being ſhut, and none preſent beſides her and one Man; two ſuppoſed Prieſts, or Fryars, repeated to him the very ſame Story and cauſed him to ſwear by the <hi>Maſs Book</hi> to relate and ſtand by it, and they themſelves ſwore by the ſame Book, as alſo <hi>Joan Tuit</hi> and the other man, never to diſcover the ſecret.</p>
+            <p>He Confeſſes farther, that his Uncle <hi>James Tuit</hi> did many times tempt him to leave his Maſter <hi>Roger Day</hi>'s ſervice and live with him, promiſing him that he ſhould never be without pence in his Pocket, that he was directed to leave a torn Paper written in blood, in the field near the Gallows, and to carry ſome peo<g ref="char:EOLhyphen"/>ple th<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>her to find it, as alſo to ſay he had, won the <hi>Monoy</hi> at the Lottery as aforeſaid, as Confirma<g ref="char:EOLhyphen"/>tions to the ſtory, that the grand deſign of this contrivance was to carry him to <hi>St. John</hi>'s Well, on <hi>Sun<g ref="char:EOLhyphen"/>day</hi> the <hi>23d</hi> of <hi>June,</hi> being <hi>St. Johns</hi> Eve (the day before having been appointed to perfect the Leaſe to the Devil) and that he was to return on <hi>Monday</hi> in his right mind, thro' the miraculous Virtue of that Well. He prays God to forgive his Uncles and Aunts, and thoſe Prieſts, and promiſes amendment of life and diligence in his Maſters ſervice for the future: He owns, that the Journey-man Smith ſaid nothing more to him, only that of <hi>Shaking Hands with the Old Gontleman,</hi> and that 'twas in Drol<g ref="char:EOLhyphen"/>lery.</p>
+            <p>Upon this Declaration of the Boy, <hi>Sir Humphery Jerviſe</hi> iſſued his Warrants immediately that ſame day, for the Apprehending the abovenamed <hi>Dawſon</hi> and <hi>Tuit:</hi> with their Wives, who were all accord<g ref="char:EOLhyphen"/>ingly Apprehended, and bound over to the next Quarter Seſſions, which have not been yet held; in the mean time, they do not diſcover either the Prieſts, or the Old Woman; however, <hi>Joan Tuit</hi> confeſ<g ref="char:EOLhyphen"/>ſes, that ſhe did intend to carry the Boy with her, as he ſaid, to <hi>St. John</hi>'s Well; which beſides the Boys Oath, is a ſtrong preſumption, that his Confeſſion is real in the other parts of it, and that ſhe knows the whole matter.</p>
+            <p>This Publication has been hitherto deferr'd, in hopes of finding out the Prieſts Names, but 'tis believed an Indulgence will legitimate a falſe Oath, rather than the holy Fathers ſhould be brought to any diſ<g ref="char:EOLhyphen"/>grace or puniſhment, This is one fair proof of the corrupt practices, and Prieſtcraft of the Ro<g ref="char:EOLhyphen"/>man Church; 'tis a good ſpecimen of their pretended Miracles, and it ſhews evidently, that they themſelves ſuſpect very much the Truth and Soundneſs of their Religion, when they are forced to fly to ſuch baſe Tricks and Frauds, for the ſupport of it: 'Tis hoped that this Diſcovery will Help to awaken and forwarn all Proteſtants to beware of the Deceitfulneſs of Popery; and if the Pa<g ref="char:EOLhyphen"/>piſts were not Hoodwinked with an implicite Faith, and enſlaved in an abſolute Subjection to the Im<g ref="char:EOLhyphen"/>poſition of their Clergy, they would ſoon diſcern abundant Reaſon to Renounce ſuch Unchriſtian Principles, and embrace the Pure and Sincere Religion of the Reformation.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed in <hi>Dublin,</hi> and Reprinted at <hi>London.</hi> 1696.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
